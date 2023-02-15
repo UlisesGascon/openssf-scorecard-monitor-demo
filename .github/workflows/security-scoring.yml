@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ulisesGascon/openssf-scorecard-monitor@fix/minor-bugs
+      - uses: ulisesGascon/openssf-scorecard-monitor@v1
         with:
           scope: reporting/scope.json
           database: reporting/database.json
