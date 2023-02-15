@@ -25,4 +25,4 @@ jobs:
           generate-issue: true
           issue-title: "OpenSSF Scorecard Report Updated!"
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          max-request-in-parallel: 10
+          max-request-in-parallel: 2
