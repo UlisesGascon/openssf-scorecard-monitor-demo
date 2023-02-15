@@ -4,11 +4,11 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:   
 
-permissions:
-  contents: write
-  pull-requests: none 
-  issues: write
-  packages: none
+# permissions:
+#   contents: write
+#   pull-requests: none 
+#   issues: write
+#   packages: none
 
 jobs:
   security-scoring:
