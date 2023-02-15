@@ -1,0 +1,28 @@
+name: "OpenSSF Scoring"
+on: 
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:   
+
+permissions:
+  contents: write
+  pull-requests: none 
+  issues: write
+  packages: none
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ulisesGascon/openssf-scorecard-monitor@main
+        with:
+          scope: reporting/scope.json
+          database: reporting/database.json
+          report: reporting/openssf-scorecard-report.md
+          auto-commit: true
+          auto-push: true
+          generate-issue: true
+          issue-title: "OpenSSF Scorecard Report Updated!"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          max-request-in-parallel: 10

@@ -1,0 +1,12 @@
+{
+    "github.com": [{
+        "org": "UlisesGascon",
+        "repo": "tor-detect-middleware"
+    }, {
+        "org": "UlisesGascon",
+        "repo": "check-my-headers"
+    },{
+        "org": "UlisesGascon",
+        "repo": "express-simple-pagination"
+    }]
+}
