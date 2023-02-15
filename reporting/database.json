@@ -9,16 +9,26 @@
         }
       },
       "tor-detect-middleware": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 1.2,
+            "date": "2022-11-28"
+          }
+        ],
         "current": {
-          "score": 1.2,
+          "score": 5.2,
           "date": "2022-11-28"
         }
       },
       "check-my-headers": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 7.4,
+            "date": "2022-11-28"
+          }
+        ],
         "current": {
-          "score": 7.4,
+          "score": 4.4,
           "date": "2022-11-28"
         }
       }
