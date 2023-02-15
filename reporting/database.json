@@ -11,14 +11,14 @@
       "tor-detect-middleware": {
         "previous": [],
         "current": {
-          "score": 5.2,
+          "score": 1.2,
           "date": "2022-11-28"
         }
       },
       "check-my-headers": {
         "previous": [],
         "current": {
-          "score": 4.4,
+          "score": 7.4,
           "date": "2022-11-28"
         }
       }
