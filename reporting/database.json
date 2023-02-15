@@ -1,0 +1,27 @@
+{
+  "github.com": {
+    "UlisesGascon": {
+      "express-simple-pagination": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2022-11-28"
+        }
+      },
+      "tor-detect-middleware": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2022-11-28"
+        }
+      },
+      "check-my-headers": {
+        "previous": [],
+        "current": {
+          "score": 4.4,
+          "date": "2022-11-28"
+        }
+      }
+    }
+  }
+}
