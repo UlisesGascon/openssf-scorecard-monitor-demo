@@ -1,0 +1,30 @@
+name: "OpenSSF Scoring"
+on: 
+  workflow_dispatch:   
+
+permissions:
+  contents: write
+  pull-requests: none 
+  issues: write
+  packages: none
+
+jobs:
+  security-scoring:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: OpenSSF Scorecard Monitor
+        uses: UlisesGascon/openssf-scorecard-monitor@main
+        with:
+          scope: experimental/scope.json
+          database: experimental/database.json
+          report: experimental/openssf-scorecard-report.md
+          auto-commit: true
+          auto-push: true
+          generate-issue: true
+          issue-title: "OpenSSF Scorecard Report Updated!"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          max-request-in-parallel: 10
+          report-tags-enabled: true
+          auto-scope-enabled: true
+          auto-scope-orgs: 'UlisesGascon,Awesome'
