@@ -1,4 +1,4 @@
-name: "OpenSSF Scoring"
+name: "Experimental"
 on: 
   workflow_dispatch:   
 
