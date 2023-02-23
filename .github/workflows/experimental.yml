@@ -12,9 +12,9 @@ jobs:
   security-scoring:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@fix/minor-bugs-v2
+      - uses: actions/checkout@v3
       - name: OpenSSF Scorecard Monitor
-        uses: UlisesGascon/openssf-scorecard-monitor@main
+        uses: UlisesGascon/openssf-scorecard-monitor@fix/minor-bugs-v2
         with:
           scope: experimental/scope.json
           database: experimental/database.json
