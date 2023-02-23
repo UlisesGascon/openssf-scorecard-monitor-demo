@@ -1,0 +1,176 @@
+{
+  "github.com": {
+    "UlisesGascon": {
+      "security-wg": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2023-02-20",
+          "commit": "846b3ddb5f75d95235e94d9eb52e920f4a067338"
+        }
+      },
+      "sweetpgp": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2022-11-28",
+          "commit": "b2d932467fdc06b11dedf88f17de68e75dc2b11d"
+        }
+      },
+      "express-simple-pagination": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2022-11-28",
+          "commit": "f3f2703efa98aafd2d39f7df3f99adde09fb153b"
+        }
+      },
+      "check-my-headers": {
+        "previous": [],
+        "current": {
+          "score": 4.4,
+          "date": "2022-11-28",
+          "commit": "a3731b4c30cd4ceb2df3b3507a32a92a010db044"
+        }
+      },
+      "tor-detect-middleware": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2022-11-28",
+          "commit": "cbb2d671b820193b078be5c76976a93d9fa3e962"
+        }
+      },
+      "the-scraping-machine": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2022-11-28",
+          "commit": "5f16fd6a6f005e13adbc517588b8053222685fed"
+        }
+      },
+      "browser-redirect": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2022-11-28",
+          "commit": "136da4a72ce9a9b9954e7c009da9f42f3d00fab1"
+        }
+      }
+    },
+    "istanbuljs": {
+      "babel-plugin-istanbul": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2022-11-28",
+          "commit": "d58c92a7de5e8ac84c598e02325b05f5b9800107"
+        }
+      },
+      "nyc": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2022-11-28",
+          "commit": "ab7c53b2f340b458789a746dff2abd3e2e4790c3"
+        }
+      },
+      "spawn-wrap": {
+        "previous": [],
+        "current": {
+          "score": 5.5,
+          "date": "2022-11-28",
+          "commit": "22c26aa8d5df11588163ab0de95ece76e67b7140"
+        }
+      },
+      "istanbuljs": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2022-11-28",
+          "commit": "fb8cb4bb99c9e5d36c8b011338d2ab5d3c72ff9c"
+        }
+      },
+      "esm-loader-hook": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2022-11-28",
+          "commit": "b927b651d24a94dcc53fcf8b46155510a6cb851a"
+        }
+      },
+      "schema": {
+        "previous": [],
+        "current": {
+          "score": 5.6,
+          "date": "2022-11-28",
+          "commit": "d7da65adc197d15e06afb3761f560507ae048495"
+        }
+      },
+      "puppeteer-to-istanbul": {
+        "previous": [],
+        "current": {
+          "score": 5.9,
+          "date": "2022-11-28",
+          "commit": "5947d2dcd8923cbade75aefab23150bab02cfa61"
+        }
+      },
+      "test-exclude": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2022-11-28",
+          "commit": "a5b1d07584109f5f553ccef97de64c6cbfca4764"
+        }
+      },
+      "append-transform": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2022-11-28",
+          "commit": "3e0547f68eacb10e85dbcbf1ac539df83afae751"
+        }
+      },
+      "istanbul-lib-processinfo": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2022-11-28",
+          "commit": "b9cd52cf6eb140cf3bff24ba5df34d5812845d66"
+        }
+      },
+      "load-nyc-config": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2022-11-28",
+          "commit": "2033a007672d90669c48c79e6a2d63a3cd0851a7"
+        }
+      },
+      "caching-transform": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2022-11-28",
+          "commit": "7996a8f575d6b4e9255fa9462a26b37c58f67507"
+        }
+      },
+      "v8-to-istanbul": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2022-11-28",
+          "commit": "b5ecd8242cf64389c9a656d78530bd0428edf195"
+        }
+      },
+      "eslint-plugin-istanbul": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2022-11-28",
+          "commit": "c291d0936842aa4a1ebcd21db636d8e99e708f55"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "github.com": {
+    "UlisesGascon": {
+      "included": [
+        "browser-redirect",
+        "check-my-headers",
+        "express-simple-pagination",
+        "security-wg",
+        "the-scraping-machine",
+        "sweetpgp",
+        "tor-detect-middleware"
+      ],
+      "excluded": []
+    },
+    "refined-github": {
+      "included": [],
+      "excluded": []
+    },
+    "istanbuljs": {
+      "included": [
+        "babel-plugin-istanbul",
+        "nyc",
+        "spawn-wrap",
+        "caching-transform",
+        "test-exclude",
+        "append-transform",
+        "esm-loader-hook",
+        "schema",
+        "istanbul-lib-processinfo",
+        "v8-to-istanbul",
+        "puppeteer-to-istanbul",
+        "istanbuljs",
+        "load-nyc-config",
+        "eslint-plugin-istanbul"
+      ],
+      "excluded": []
+    }
+  }
+}
