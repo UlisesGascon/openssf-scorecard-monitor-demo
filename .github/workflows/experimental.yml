@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: OpenSSF Scorecard Monitor
-        uses: UlisesGascon/openssf-scorecard-monitor@fix/minor-bugs-v2
+        uses: UlisesGascon/openssf-scorecard-monitor@main
         with:
           scope: experimental/scope.json
           database: experimental/database.json
@@ -26,5 +26,5 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           max-request-in-parallel: 10
           report-tags-enabled: true
-          auto-scope-enabled: true
-          auto-scope-orgs: 'UlisesGascon,refined-github,istanbuljs'
+          discovery-enabled: true
+          discovery-orgs: 'UlisesGascon,nodejs,ada-url,onebeyond'
