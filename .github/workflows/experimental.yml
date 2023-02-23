@@ -1,4 +1,4 @@
-name: "Experimental"
+name: "🚩 Experimental"
 on: 
   workflow_dispatch:   
 
@@ -27,4 +27,4 @@ jobs:
           max-request-in-parallel: 10
           report-tags-enabled: true
           auto-scope-enabled: true
-          auto-scope-orgs: 'UlisesGascon,Awesome'
+          auto-scope-orgs: 'UlisesGascon,refined-github,istanbuljs'
