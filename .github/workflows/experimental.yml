@@ -27,4 +27,4 @@ jobs:
           max-request-in-parallel: 10
           report-tags-enabled: true
           discovery-enabled: true
-          discovery-orgs: 'UlisesGascon,nodejs,ada-url,onebeyond'
+          discovery-orgs: 'UlisesGascon,nodejs,ada-url,onebeyond,guidesmiths'
