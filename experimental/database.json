@@ -905,6 +905,24 @@
           "commit": "73f964d9d61882db60686e03c795d6cb12951fe9"
         }
       }
+    },
+    "ada-url": {
+      "ada": {
+        "previous": [],
+        "current": {
+          "score": 4.4,
+          "date": "2023-02-24",
+          "commit": "72308cd65e88940d8ed7ead07848135af780d14c"
+        }
+      },
+      "idna": {
+        "previous": [],
+        "current": {
+          "score": 4.4,
+          "date": "2023-02-24",
+          "commit": "d854a58e1669ed90f0d69f1199555f1ec26568f1"
+        }
+      }
     }
   }
 }

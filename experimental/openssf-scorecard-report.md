@@ -1,3 +1,4 @@
+<!-- OPENSSF-SCORECARD-MONITOR:START -->
 # OpenSSF Scorecard Report
 
 ## Summary
@@ -33,7 +34,7 @@
 | [nodejs/nodejs-dist-indexer](https://github.com/nodejs/nodejs-dist-indexer) | [da5b157](https://github.com/nodejs/nodejs-dist-indexer/commit/da5b1572f3d96b54a151fc0e9123d8011ad7afb3) | 5.3 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fnodejs-dist-indexer) |
 | [nodejs/node-report](https://github.com/nodejs/node-report) | [9054749](https://github.com/nodejs/node-report/commit/90547492f5da29948b00a19b13490b2ebe2c0cd6) | 5.5 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fnode-report) |
 | [nodejs/nodejs-nightly-builder](https://github.com/nodejs/nodejs-nightly-builder) | [00c8135](https://github.com/nodejs/nodejs-nightly-builder/commit/00c8135102b0e272ed1d8950845a5412cc9bc237) | 5.2 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fnodejs-nightly-builder) |
-| [nodejs/security-wg](https://github.com/nodejs/security-wg) | [4f8a10a](https://github.com/nodejs/security-wg/commit/4f8a10aec89ae318f4623a866432eb71496b2c6b) | 7 | 2023-02-21 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fsecurity-wg) |
+| [nodejs/security-wg](https://github.com/nodejs/security-wg) | [87295b8](https://github.com/nodejs/security-wg/commit/87295b819dd04bef5fa242cf6b2b56e747e48586) | 7 | 2023-02-24 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fsecurity-wg) |
 | [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) | [39267ba](https://github.com/nodejs/node-addon-api/commit/39267baf1ba985275f74991fef6faac2ccf8e495) | 5.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fnode-addon-api) |
 | [nodejs/tap2junit](https://github.com/nodejs/tap2junit) | [5c10d8e](https://github.com/nodejs/tap2junit/commit/5c10d8e9cc8df25e6dfe086efad1e39b211582d6) | 4.8 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Ftap2junit) |
 | [nodejs/nodejs-latest-linker](https://github.com/nodejs/nodejs-latest-linker) | [5792ec9](https://github.com/nodejs/nodejs-latest-linker/commit/5792ec991efc5b35aa67e14b45d5120fba369edd) | 5.3 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fnodejs-latest-linker) |
@@ -48,7 +49,7 @@
 | [nodejs/meeting-picker](https://github.com/nodejs/meeting-picker) | [164fcf1](https://github.com/nodejs/meeting-picker/commit/164fcf11119c956528a803afcd35c06b895ada91) | 5.5 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fmeeting-picker) |
 | [nodejs/i18n](https://github.com/nodejs/i18n) | [61aa09b](https://github.com/nodejs/i18n/commit/61aa09b813d75fb46d1c73cd46e96acfa67c7e95) | 7.8 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fi18n) |
 | [nodejs/llhttp](https://github.com/nodejs/llhttp) | [85dd446](https://github.com/nodejs/llhttp/commit/85dd446419966cafb5a7fdd5031e3113a0768e65) | 7 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fllhttp) |
-| [nodejs/undici](https://github.com/nodejs/undici) | [e461407](https://github.com/nodejs/undici/commit/e461407c63e1009215e13bbd392fe7919747ab3e) | 6.5 | 2023-02-23 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fundici) |
+| [nodejs/undici](https://github.com/nodejs/undici) | [06f77a9](https://github.com/nodejs/undici/commit/06f77a92087f18151f1ed8c7eb25ad44351ba508) | 6.5 | 2023-02-24 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fundici) |
 | [nodejs/official-images](https://github.com/nodejs/official-images) | [6921123](https://github.com/nodejs/official-images/commit/69211237fb70e39ccf837d6e5146896f25bd40f8) | 2.7 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fofficial-images) |
 | [nodejs/package-maintenance](https://github.com/nodejs/package-maintenance) | [35d8252](https://github.com/nodejs/package-maintenance/commit/35d8252b5965d2326126e1af50c4a83cbdc4d851) | 7.4 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fpackage-maintenance) |
 | [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) | [e31da70](https://github.com/nodejs/nodejs.dev/commit/e31da70c029f24497fade852ecbb23e47907d5ad) | 6.1 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fnodejs.dev) |
@@ -56,6 +57,8 @@
 | [nodejs/whatwg-stream](https://github.com/nodejs/whatwg-stream) | [092231d](https://github.com/nodejs/whatwg-stream/commit/092231da3ade919daef9b23ea4e0ed7c9a7dea80) | 5.1 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fwhatwg-stream) |
 | [nodejs/gyp-next](https://github.com/nodejs/gyp-next) | [ac262fe](https://github.com/nodejs/gyp-next/commit/ac262fe82453c4e8dc47529338d157eb0b5ec0fb) | 6.1 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fgyp-next) |
 | [nodejs/corepack](https://github.com/nodejs/corepack) | [4efc06d](https://github.com/nodejs/corepack/commit/4efc06d93ecf63d9ed922e386b8121c32a554fae) | 5.8 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/nodejs%2Fcorepack) |
+| [ada-url/ada](https://github.com/ada-url/ada) | [72308cd](https://github.com/ada-url/ada/commit/72308cd65e88940d8ed7ead07848135af780d14c) | 4.4 | 2023-02-24 | 0 | [Full Report](https://deps.dev/project/github/ada-url%2Fada) |
+| [ada-url/idna](https://github.com/ada-url/idna) | [d854a58](https://github.com/ada-url/idna/commit/d854a58e1669ed90f0d69f1199555f1ec26568f1) | 4.4 | 2023-02-24 | 0 | [Full Report](https://deps.dev/project/github/ada-url%2Fidna) |
 | [onebeyond/systemic-knex](https://github.com/onebeyond/systemic-knex) | [c0e887e](https://github.com/onebeyond/systemic-knex/commit/c0e887eb2d27b8bf3f7bca604e8097a5319178d8) | 5.9 | 2023-02-18 | 0 | [Full Report](https://deps.dev/project/github/onebeyond%2Fsystemic-knex) |
 | [guidesmiths/whoosh](https://github.com/guidesmiths/whoosh) | [f092194](https://github.com/guidesmiths/whoosh/commit/f092194d56a722fb3cc8737e633943455c89a1e6) | 3.4 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fwhoosh) |
 | [guidesmiths/node-madgex](https://github.com/guidesmiths/node-madgex) | [42511b9](https://github.com/guidesmiths/node-madgex/commit/42511b9783832e2beb343e5c3fd02524a3260cfe) | 4.7 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fnode-madgex) |
@@ -104,3 +107,4 @@
 | [guidesmiths/dangerjs-wrapper](https://github.com/guidesmiths/dangerjs-wrapper) | [92f0225](https://github.com/guidesmiths/dangerjs-wrapper/commit/92f0225f4444f56982040635e1650ae938ec6cd9) | 3.9 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fdangerjs-wrapper) |
 
 _Report generated by [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor)._
+<!-- OPENSSF-SCORECARD-MONITOR:END -->

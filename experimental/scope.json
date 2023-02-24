@@ -63,7 +63,10 @@
       "excluded": []
     },
     "ada-url": {
-      "included": [],
+      "included": [
+        "ada",
+        "idna"
+      ],
       "excluded": []
     },
     "onebeyond": {
