@@ -8,7 +8,9 @@
         "security-wg",
         "the-scraping-machine",
         "sweetpgp",
-        "tor-detect-middleware"
+        "tor-detect-middleware",
+        "ada",
+        "idna"
       ],
       "excluded": []
     },

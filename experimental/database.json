@@ -56,6 +56,22 @@
           "date": "2022-11-28",
           "commit": "136da4a72ce9a9b9954e7c009da9f42f3d00fab1"
         }
+      },
+      "idna": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2023-02-25",
+          "commit": "8cd03ef867dbd06be87bd61df9cf69aa1182ea21"
+        }
+      },
+      "ada": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2023-02-25",
+          "commit": "cff87458af1eace3ec85b1fd20a5bf8ce64b06e6"
+        }
       }
     },
     "istanbuljs": {
@@ -908,11 +924,17 @@
     },
     "ada-url": {
       "ada": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 4.4,
+            "date": "2023-02-24",
+            "commit": "72308cd65e88940d8ed7ead07848135af780d14c"
+          }
+        ],
         "current": {
-          "score": 4.4,
-          "date": "2023-02-24",
-          "commit": "72308cd65e88940d8ed7ead07848135af780d14c"
+          "score": 5.4,
+          "date": "2023-02-25",
+          "commit": "99792aa0b2865f60acfeb9df40c95eababbaf28a"
         }
       },
       "idna": {
