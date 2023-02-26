@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: OpenSSF Scorecard Monitor
         uses: UlisesGascon/openssf-scorecard-monitor@main
+        id: openssf-scorecard-monitor
         with:
           scope: experimental/scope.json
           database: experimental/database.json
@@ -28,3 +29,6 @@ jobs:
           report-tags-enabled: true
           discovery-enabled: true
           discovery-orgs: 'UlisesGascon,nodejs,ada-url,onebeyond,guidesmiths'
+      - name: Print the scores
+        run: |
+          echo '${{ steps.openssf-scorecard-monitor.outputs.scores }}'  
