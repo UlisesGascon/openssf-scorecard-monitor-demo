@@ -2,10 +2,15 @@
   "github.com": {
     "UlisesGascon": {
       "express-simple-pagination": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 5.1,
+            "date": "2022-11-28"
+          }
+        ],
         "current": {
-          "score": 5.1,
-          "date": "2022-11-28"
+          "score": 5.8,
+          "date": "2023-03-01"
         }
       },
       "tor-detect-middleware": {
@@ -13,11 +18,15 @@
           {
             "score": 1.2,
             "date": "2022-11-28"
+          },
+          {
+            "score": 5.2,
+            "date": "2022-11-28"
           }
         ],
         "current": {
-          "score": 5.2,
-          "date": "2022-11-28"
+          "score": 5.5,
+          "date": "2023-03-01"
         }
       },
       "check-my-headers": {
@@ -25,11 +34,15 @@
           {
             "score": 7.4,
             "date": "2022-11-28"
+          },
+          {
+            "score": 4.4,
+            "date": "2022-11-28"
           }
         ],
         "current": {
-          "score": 4.4,
-          "date": "2022-11-28"
+          "score": 5.6,
+          "date": "2023-03-01"
         }
       }
     }
