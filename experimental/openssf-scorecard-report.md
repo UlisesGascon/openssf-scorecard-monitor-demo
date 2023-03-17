@@ -1,3 +1,7 @@
+# OpenSSF Scorecard Report
+
+## Summary
+
 <!-- OPENSSF-SCORECARD-MONITOR:START -->
 
 | Repository | Commit | Score | Date | Difference | Report Link | StepSecurity Link |
