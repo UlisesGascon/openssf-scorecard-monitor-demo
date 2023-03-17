@@ -24,7 +24,7 @@ jobs:
           auto-push: true
           generate-issue: true
           issue-title: "OpenSSF Scorecard Report Updated!"
-          issue-assigness: 'UlisesGascon,KoolTheba'
+          issue-assignees: 'UlisesGascon,KoolTheba'
           issue-labels: 'bug,invented, wontfix'
           github-token: ${{ secrets.GITHUB_TOKEN }}
           max-request-in-parallel: 10
