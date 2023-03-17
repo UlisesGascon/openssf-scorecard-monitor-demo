@@ -26,10 +26,15 @@
             "score": 1.6,
             "date": "2022-11-28",
             "commit": "b2d932467fdc06b11dedf88f17de68e75dc2b11d"
+          },
+          {
+            "score": 1.6,
+            "date": "2023-03-13",
+            "commit": "199caea62eaa82037db4e8f2aee219aef88e431f"
           }
         ],
         "current": {
-          "score": 1.6,
+          "score": 5.6,
           "date": "2023-03-13",
           "commit": "199caea62eaa82037db4e8f2aee219aef88e431f"
         }
