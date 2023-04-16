@@ -10,7 +10,8 @@
         "sweetpgp",
         "tor-detect-middleware",
         "ada",
-        "idna"
+        "idna",
+        "simple-api"
       ],
       "excluded": []
     },
