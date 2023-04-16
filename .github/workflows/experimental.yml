@@ -31,6 +31,7 @@ jobs:
           report-tags-enabled: true
           discovery-enabled: true
           discovery-orgs: 'UlisesGascon,nodejs,ada-url,onebeyond,guidesmiths'
+          report-tool: deps.dev
       - name: Print the scores
         run: |
           echo '${{ steps.openssf-scorecard-monitor.outputs.scores }}'  
