@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: OpenSSF Scorecard Monitor
-        uses: UlisesGascon/openssf-scorecard-monitor@feat/add-new-visualization-tool
+        uses: UlisesGascon/openssf-scorecard-monitor@main
         id: openssf-scorecard-monitor
         with:
           scope: experimental/scope.json
@@ -31,7 +31,6 @@ jobs:
           report-tags-enabled: true
           discovery-enabled: true
           discovery-orgs: 'UlisesGascon,nodejs,ada-url,onebeyond,guidesmiths'
-          report-tool: deps.dev
       - name: Print the scores
         run: |
           echo '${{ steps.openssf-scorecard-monitor.outputs.scores }}'  
