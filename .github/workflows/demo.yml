@@ -14,7 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: OpenSSF Scorecard Monitor
-        uses: UlisesGascon/openssf-scorecard-monitor@main
+        # feat/add-new-visualization-tool includes the non-released changes for the new visualization tool (v2.0.0-beta4)
+        uses: UlisesGascon/openssf-scorecard-monitor@feat/add-new-visualization-tool
         id: openssf-scorecard-monitor
         with:
           scope: demo/scope.json
