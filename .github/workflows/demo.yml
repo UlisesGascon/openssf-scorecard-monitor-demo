@@ -1,0 +1,36 @@
+name: "🍿 Demo"
+on: 
+  workflow_dispatch:   
+
+permissions:
+  contents: write
+  pull-requests: none 
+  issues: write
+  packages: none
+
+jobs:
+  security-scoring:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: OpenSSF Scorecard Monitor
+        uses: UlisesGascon/openssf-scorecard-monitor@main
+        id: openssf-scorecard-monitor
+        with:
+          scope: demo/scope.json
+          database: demo/database.json
+          report: demo/openssf-report.md
+          auto-commit: true
+          auto-push: true
+          generate-issue: true
+          issue-title: "[Demo] OpenSSF Scorecard Report Updated!"
+          issue-assignees: 'UlisesGascon'
+          issue-labels: 'demo,wontfix'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          max-request-in-parallel: 10
+          report-tags-enabled: true
+          discovery-enabled: true
+          discovery-orgs: 'elastic,psf'
+      - name: Print the scores
+        run: |
+          echo '${{ steps.openssf-scorecard-monitor.outputs.scores }}'  
