@@ -18,11 +18,15 @@
           {
             "score": 5.7,
             "date": "2023-04-10"
+          },
+          {
+            "score": 5.2,
+            "date": "2023-04-24"
           }
         ],
         "current": {
-          "score": 5.2,
-          "date": "2023-04-24"
+          "score": 5.3,
+          "date": "2023-05-01"
         }
       },
       "tor-detect-middleware": {
