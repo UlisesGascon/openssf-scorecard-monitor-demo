@@ -19,8 +19,8 @@ jobs:
           scope: experimental_node/scope.json
           database: experimental_node/database.json
           report: experimental_node/report.md
-          auto-commit: false
-          auto-push: false
+          auto-commit: true
+          auto-push: true
           generate-issue: true
           report-tags-enabled: true
           issue-title: "OpenSSF Scorecard Report Updated!"
