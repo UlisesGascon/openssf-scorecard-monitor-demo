@@ -22,11 +22,15 @@
           {
             "score": 5.2,
             "date": "2023-04-24"
+          },
+          {
+            "score": 5.3,
+            "date": "2023-05-01"
           }
         ],
         "current": {
-          "score": 5.3,
-          "date": "2023-05-01"
+          "score": 5.5,
+          "date": "2023-06-19"
         }
       },
       "tor-detect-middleware": {
@@ -54,11 +58,15 @@
           {
             "score": 4.7,
             "date": "2023-04-24"
+          },
+          {
+            "score": 4.6,
+            "date": "2023-05-29"
           }
         ],
         "current": {
-          "score": 4.6,
-          "date": "2023-05-29"
+          "score": 4.9,
+          "date": "2023-06-19"
         }
       },
       "check-my-headers": {
