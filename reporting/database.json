@@ -26,11 +26,15 @@
           {
             "score": 5.3,
             "date": "2023-05-01"
+          },
+          {
+            "score": 5.5,
+            "date": "2023-06-19"
           }
         ],
         "current": {
-          "score": 5.5,
-          "date": "2023-06-19"
+          "score": 5.3,
+          "date": "2023-06-26"
         }
       },
       "tor-detect-middleware": {
