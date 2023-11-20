@@ -3,12 +3,9 @@
     "docker": {
       "included": [
         "compose",
-        "machine",
         "libchan",
-        "kitematic",
         "docker-py",
         "docker-bench-security",
-        "libcompose",
         "go-connections",
         "go-plugins-helpers",
         "libkv",
@@ -16,16 +13,11 @@
         "for-mac",
         "for-win",
         "docker-credential-helpers",
-        "labs",
         "for-linux",
         "go-docker",
         "docker-install",
-        "docker-ce",
-        "app",
         "cli",
         "build-push-action",
-        "github-actions",
-        "compose-on-kubernetes",
         "getting-started",
         "awesome-compose",
         "buildx",
@@ -36,7 +28,16 @@
         "get-involved",
         "cli-docs-tool"
       ],
-      "excluded": []
+      "excluded": [
+        "labs",
+        "docker-ce",
+        "compose-on-kubernetes",
+        "machine",
+        "github-actions",
+        "libcompose",
+        "app",
+        "kitematic"
+      ]
     }
   }
 }
