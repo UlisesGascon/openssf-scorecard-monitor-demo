@@ -1,0 +1,42 @@
+{
+  "github.com": {
+    "docker": {
+      "included": [
+        "compose",
+        "machine",
+        "libchan",
+        "kitematic",
+        "docker-py",
+        "docker-bench-security",
+        "libcompose",
+        "go-connections",
+        "go-plugins-helpers",
+        "libkv",
+        "community",
+        "for-mac",
+        "for-win",
+        "docker-credential-helpers",
+        "labs",
+        "for-linux",
+        "go-docker",
+        "docker-install",
+        "docker-ce",
+        "app",
+        "cli",
+        "build-push-action",
+        "github-actions",
+        "compose-on-kubernetes",
+        "getting-started",
+        "awesome-compose",
+        "buildx",
+        "scan-cli-plugin",
+        "hub-tool",
+        "compose-cli",
+        "roadmap",
+        "get-involved",
+        "cli-docs-tool"
+      ],
+      "excluded": []
+    }
+  }
+}
