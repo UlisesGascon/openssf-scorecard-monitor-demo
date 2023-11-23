@@ -34,6 +34,58 @@
         "csurf",
         "api-error-handler"
       ]
+    },
+    "pillarjs": {
+      "included": [
+        "path-to-regexp",
+        "cookies",
+        "multiparty",
+        "path-match",
+        "send",
+        "routington",
+        "hbs",
+        "resolve-path",
+        "parseurl",
+        "router",
+        "ssl-redirect",
+        "finalhandler",
+        "templation",
+        "qs-strict",
+        "csrf",
+        "encodeurl",
+        "extend-proto"
+      ],
+      "excluded": []
+    },
+    "jshttp": {
+      "included": [
+        "range-parser",
+        "http-assert",
+        "fresh",
+        "methods",
+        "basic-auth",
+        "negotiator",
+        "on-finished",
+        "cookie",
+        "compressible",
+        "accepts",
+        "mime-types",
+        "type-is",
+        "etag",
+        "proxy-addr",
+        "vary",
+        "statuses",
+        "media-typer",
+        "on-headers",
+        "mime-db",
+        "forwarded",
+        "http-errors",
+        "content-disposition",
+        "spdy-push",
+        "http-push",
+        "content-type"
+      ],
+      "excluded": []
     }
   }
 }
