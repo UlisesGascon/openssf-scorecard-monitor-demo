@@ -1,0 +1,38 @@
+{
+  "github.com": {
+    "expressjs": {
+      "included": [
+        "expressjs.com",
+        "express",
+        "cors",
+        "connect-multiparty",
+        "vhostess",
+        "routification",
+        "response-time",
+        "body-parser",
+        "compression",
+        "serve-favicon",
+        "basic-auth-connect",
+        "generator",
+        "multer",
+        "csurf",
+        "morgan",
+        "session",
+        "serve-index",
+        "errorhandler",
+        "vhost",
+        "cookie-parser",
+        "method-override",
+        "cookie-session",
+        "timeout",
+        "flash",
+        "set-type",
+        "serve-static",
+        "api-error-handler",
+        "express-paginate",
+        "mime-extended"
+      ],
+      "excluded": []
+    }
+  }
+}
