@@ -40,7 +40,6 @@
         "path-to-regexp",
         "cookies",
         "multiparty",
-        "path-match",
         "send",
         "routington",
         "hbs",
@@ -55,7 +54,9 @@
         "encodeurl",
         "extend-proto"
       ],
-      "excluded": []
+      "excluded": [
+        "path-match"
+      ]
     },
     "jshttp": {
       "included": [
