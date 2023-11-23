@@ -15,7 +15,6 @@
         "basic-auth-connect",
         "generator",
         "multer",
-        "csurf",
         "morgan",
         "session",
         "serve-index",
@@ -28,11 +27,13 @@
         "flash",
         "set-type",
         "serve-static",
-        "api-error-handler",
         "express-paginate",
         "mime-extended"
       ],
-      "excluded": []
+      "excluded": [
+        "csurf",
+        "api-error-handler"
+      ]
     }
   }
 }
