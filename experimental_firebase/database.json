@@ -1,0 +1,686 @@
+{
+  "github.com": {
+    "firebase": {
+      "php-jwt": {
+        "previous": [],
+        "current": {
+          "score": 6.6,
+          "date": "2023-11-27",
+          "commit": "79cb30b729a22931b2fbd6b53f20629a83031ba9"
+        }
+      },
+      "netty": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2023-11-27",
+          "commit": "a4e9ba5472567de078270be940c2f062e7a5c692"
+        }
+      },
+      "geofire-java": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2023-11-27",
+          "commit": "3975ac456afcf5c60d03bb80fdcc41075f8b19b7"
+        }
+      },
+      "superstatic": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2023-11-27",
+          "commit": "904b6a4be28d1cc11b7eecd62348e8135b5b85e8"
+        }
+      },
+      "finagle": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2023-11-27",
+          "commit": "7cb5db63ac2d2652d1baa7f816c632a5d49074cf"
+        }
+      },
+      "scalastyle": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2023-11-27",
+          "commit": "3cd0d5768fbd9e124f602c2c115883e65c07af8c"
+        }
+      },
+      "ok": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2023-11-27",
+          "commit": "06a77d632952ff878095224bcc03cd32ce16e76f"
+        }
+      },
+      "geofire-objc": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2023-11-27",
+          "commit": "3724b210a3b3b29e6d7474ea17774d3d4285633d"
+        }
+      },
+      "firebase-tools": {
+        "previous": [],
+        "current": {
+          "score": 6,
+          "date": "2023-11-27",
+          "commit": "cf9379f89b20e8ea0cc36a485488399442155e4c"
+        }
+      },
+      "geofire-js": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2023-11-27",
+          "commit": "df5d7b863f47cd583685ea7bed75d71fd5f38b56"
+        }
+      },
+      "FirebaseUI-Android": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2023-11-27",
+          "commit": "5b6c9f01f5a674d754d8e9b1242197fe040086e7"
+        }
+      },
+      "quickstart-android": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2023-11-27",
+          "commit": "bdb7cad7d5faad4cbee7c27de8d3a5cf4ae7284d"
+        }
+      },
+      "quickstart-js": {
+        "previous": [],
+        "current": {
+          "score": 6,
+          "date": "2023-11-27",
+          "commit": "08b82156097367840c0db89a503349a8f713166e"
+        }
+      },
+      "chef-google_auth_proxy": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2023-11-27",
+          "commit": "9a6490ed180e34b9b04d98a33356bc0472fae371"
+        }
+      },
+      "FirebaseUI-iOS": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2023-11-27",
+          "commit": "8f9100cc18587ddc09ddaa760edb7d3e91f7b8fb"
+        }
+      },
+      "leveldb": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2023-11-27",
+          "commit": "20280f0cc6fd5d945accdc952d02008ac389bf00"
+        }
+      },
+      "nagios": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2023-11-27",
+          "commit": "bdf3590caead7e2256ef6771f0c43573003df098"
+        }
+      },
+      "quickstart-ios": {
+        "previous": [],
+        "current": {
+          "score": 7.2,
+          "date": "2023-11-27",
+          "commit": "b1c471a12f223bedeab926186e82901cf4d19e25"
+        }
+      },
+      "chef-user": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2023-11-27",
+          "commit": "fd2094cc8ae76d92ec1906ff1f3ca88b080d3792"
+        }
+      },
+      "scalastyle-maven-plugin": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2023-11-27",
+          "commit": "3a707e37fabb8f2b8100a3e2968a070f930ba007"
+        }
+      },
+      "SwiftLint": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2023-11-27",
+          "commit": "f8ca8640c38c5c110547e4d6bcab122f903d9821"
+        }
+      },
+      "functions-samples": {
+        "previous": [],
+        "current": {
+          "score": 4.4,
+          "date": "2023-11-27",
+          "commit": "cd8938b1a7f688b236e9ad02964e140bc61e73a3"
+        }
+      },
+      "firebaseui-web": {
+        "previous": [],
+        "current": {
+          "score": 4.9,
+          "date": "2023-11-27",
+          "commit": "44884c70d4c67e52a918037dd841a16419fab94c"
+        }
+      },
+      "quickstart-java": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2023-11-27",
+          "commit": "254dd24fbc89e6b49e6c84ecbbcc1ba31975392c"
+        }
+      },
+      "quickstart-nodejs": {
+        "previous": [],
+        "current": {
+          "score": 4.9,
+          "date": "2023-11-27",
+          "commit": "cf70e0298e6a9e3fc55a28ead2e9493b2b7f1785"
+        }
+      },
+      "quickstart-unity": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2023-11-27",
+          "commit": "a43a08b625ec3eb465b0583c0e6dc67a93240442"
+        }
+      },
+      "firebase-functions": {
+        "previous": [],
+        "current": {
+          "score": 6,
+          "date": "2023-11-27",
+          "commit": "a64fd48fac12cd6293885ec8402a334037470c44"
+        }
+      },
+      "kitchen-google": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2023-11-27",
+          "commit": "b50d5c2d0bfc29b86bce52a81d7584c730f60cc4"
+        }
+      },
+      "codelab-friendlychat-web": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2023-11-27",
+          "commit": "3c7f80a5e51345a52f8578254906fbfebaf00271"
+        }
+      },
+      "quickstart-cpp": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2023-11-27",
+          "commit": "84c6f1e7d0140de999823739e2c7bd701125e7ca"
+        }
+      },
+      "firebase-admin-node": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2023-11-27",
+          "commit": "e7c4258f1bd0397a0123ca4a14807c0ec518c754"
+        }
+      },
+      "firebase-admin-go": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2023-11-27",
+          "commit": "b04387eff11f911cf10e9a76f4fcbf517b6c9a62"
+        }
+      },
+      "firebase-admin-python": {
+        "previous": [],
+        "current": {
+          "score": 6.1,
+          "date": "2023-11-27",
+          "commit": "c77608e173685d2c882a9515bae6e5699b91d54f"
+        }
+      },
+      "nginx": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2023-11-27",
+          "commit": "4dbf1fbb2c8b229b881719a4438f28e99050171e"
+        }
+      },
+      "leveldb-library-podspec": {
+        "previous": [],
+        "current": {
+          "score": 4.4,
+          "date": "2023-11-27",
+          "commit": "b09c806e031961afd3a7572ab283817ba2f905b3"
+        }
+      },
+      "firebase-admin-java": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2023-11-27",
+          "commit": "b4ab5903fb337b6023e331feb317f0866872c439"
+        }
+      },
+      "oss-bot": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2023-11-27",
+          "commit": "de53b253e2dc38c25be899f488e8c2837b62de2e"
+        }
+      },
+      "firebase-js-sdk": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2023-11-27",
+          "commit": "70e4cf6a6544c4ccfa609c3f2c320980e7122101"
+        }
+      },
+      "quickstart-python": {
+        "previous": [],
+        "current": {
+          "score": 4,
+          "date": "2023-11-27",
+          "commit": "2c68e7c5020f4dbb072cca4da03dba389fbbe4ec"
+        }
+      },
+      "firebase-ios-sdk": {
+        "previous": [],
+        "current": {
+          "score": 6,
+          "date": "2022-08-15",
+          "commit": "9aedae7ce36fd87a89ebc2b9944733a661d680c5"
+        }
+      },
+      "snippets-python": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2023-11-27",
+          "commit": "b2a064380c4ff15721d52061184a771d05e13431"
+        }
+      },
+      "snippets-go": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2023-11-27",
+          "commit": "9f562e76c2481dc72c913e3a6786ddc09e191200"
+        }
+      },
+      "snippets-android": {
+        "previous": [],
+        "current": {
+          "score": 5.9,
+          "date": "2023-11-27",
+          "commit": "b1b04d494542af4263c7b4ae778e040b0b594478"
+        }
+      },
+      "codelab-friendlychat-android": {
+        "previous": [],
+        "current": {
+          "score": 5.7,
+          "date": "2023-11-27",
+          "commit": "3aff5c577cbfbadf7e8c9aa9d93d983257873630"
+        }
+      },
+      "codelab-friendlychat-ios": {
+        "previous": [],
+        "current": {
+          "score": 6,
+          "date": "2023-11-27",
+          "commit": "dfad884c2dc71657de889e973050e868947ca709"
+        }
+      },
+      "snippets-ios": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2023-11-27",
+          "commit": "98f31065bf28daaea54374c8d9486758e71e3468"
+        }
+      },
+      "friendlypix-ios": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2023-11-27",
+          "commit": "bbdae8bb5fea5ae0e01ac49da6738a3ab4d0c7c5"
+        }
+      },
+      "snippets-java": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2023-11-27",
+          "commit": "7051da2745f8f95b176c9c6347e0bb0db3de1112"
+        }
+      },
+      "snippets-node": {
+        "previous": [],
+        "current": {
+          "score": 4.4,
+          "date": "2023-11-27",
+          "commit": "e29c2c3ced6c1a3cb14ad5ab7588dac578c06453"
+        }
+      },
+      "snippets-web": {
+        "previous": [],
+        "current": {
+          "score": 5.5,
+          "date": "2023-11-27",
+          "commit": "e74e8fd9591f70007a44c58580ff0f1fcd1c7959"
+        }
+      },
+      "firebase-testlab-instr-lib": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2023-11-27",
+          "commit": "ff9cebb0f8774a837444caf8ffeda0e906980864"
+        }
+      },
+      "appquality-codelab-ios": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2023-11-27",
+          "commit": "4ffa1bc525b2ed9b5cda301cb3320d79c43f7b35"
+        }
+      },
+      "friendlyeats-ios": {
+        "previous": [],
+        "current": {
+          "score": 6.7,
+          "date": "2023-11-27",
+          "commit": "0eca12e2890c09f9c2b0ec251fe197323b21d027"
+        }
+      },
+      "friendlyeats-android": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2023-11-27",
+          "commit": "5feec9352402fa6d91318b3217270dce5a8b6b7a"
+        }
+      },
+      "friendlyeats-web": {
+        "previous": [],
+        "current": {
+          "score": 5.9,
+          "date": "2023-11-27",
+          "commit": "facbeeb94a8c8f12ec616d5e8a4f2e7d6f5f2552"
+        }
+      },
+      "scrypt": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2023-11-27",
+          "commit": "e9ec1a958af8c2d899bd104e90b06af13185ff55"
+        }
+      },
+      "firebaseopensource.com": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2023-11-27",
+          "commit": "a64e81dd212e94f2c7ff484fe36a799a50b3f483"
+        }
+      },
+      "snippets-rules": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2023-11-27",
+          "commit": "193c9e1d97dbb2c03979925b89bd8c94f65a5829"
+        }
+      },
+      "firebaseui-web-react": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2023-11-27",
+          "commit": "49f80b5d1548e4d4a2575e0e7f998e7148440405"
+        }
+      },
+      "rtdb-to-csv": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2023-11-27",
+          "commit": "286da5b51313a9d1bc784435dc004523d81bae14"
+        }
+      },
+      "flutterfire": {
+        "previous": [],
+        "current": {
+          "score": 8,
+          "date": "2023-11-28T13:54:53Z",
+          "commit": "1670377e3a17aecff6a93a8db8a17c8095a85c88"
+        }
+      },
+      "firebase-android-sdk": {
+        "previous": [],
+        "current": {
+          "score": 7.3,
+          "date": "2023-11-27",
+          "commit": "879c84bb4ae02b9b6923d3ae0620c97c63bae10d"
+        }
+      },
+      "firebase-bower": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2023-11-27",
+          "commit": "52e75721fd25f0d4ed31a4cd2458559099c5d953"
+        }
+      },
+      "firebase-functions-test": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2023-11-27",
+          "commit": "8cc337f038f2a56f0495886a11cd24ca02312ca8"
+        }
+      },
+      "extensions": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2023-11-27",
+          "commit": "ddd8b95fb10d5dd6f7df2bfad3456656bf49e257"
+        }
+      },
+      "firebase-cpp-sdk": {
+        "previous": [],
+        "current": {
+          "score": 4.8,
+          "date": "2023-11-27",
+          "commit": "42b57ecd524641c717c9bb3dca658b6697b0b4dd"
+        }
+      },
+      "SpecsStaging": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2023-11-27",
+          "commit": "cd03fbd5cad6ae00539dc40500055bb975a87ba1"
+        }
+      },
+      "geofire-android": {
+        "previous": [],
+        "current": {
+          "score": 4.5,
+          "date": "2023-11-27",
+          "commit": "85e8c220ef7f5024a11f40e88540f5a740006273"
+        }
+      },
+      "emulators-codelab": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2023-11-27",
+          "commit": "b48d840563ac1d2e51f673532918f5365e3d8792"
+        }
+      },
+      "firebase-admin-dotnet": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2023-11-27",
+          "commit": "a44422f8675f116645e31927a88b46bd04c9bc24"
+        }
+      },
+      "SpecsTesting": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2023-11-27",
+          "commit": "98c387bc7fb2a521e6745423891fea399dbf323e"
+        }
+      },
+      "boringssl": {
+        "previous": [],
+        "current": {
+          "score": 5.4,
+          "date": "2023-11-27",
+          "commit": "0cd846f24fc705daadb51e2cba3f28b975ddadf6"
+        }
+      },
+      "abseil-cpp": {
+        "previous": [],
+        "current": {
+          "score": 4.8,
+          "date": "2023-11-27",
+          "commit": "ce4bc927755fdf0ed03d679d9c7fa041175bb3cb"
+        }
+      },
+      "abseil-cpp-SwiftPM": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2023-11-27",
+          "commit": "ec90126016ffa2ad18b85534543fec0678b84135"
+        }
+      },
+      "snippets-cpp": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2023-11-27",
+          "commit": "778b6bcc8e8e8fcabb1c2e3a8d11ab51a26aa77b"
+        }
+      },
+      "ocmock": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2023-11-27",
+          "commit": "ffeeed23b2543ca76ecc8886f2e66924e192a1cd"
+        }
+      },
+      "firebase-tools-ui": {
+        "previous": [],
+        "current": {
+          "score": 4.9,
+          "date": "2023-11-27",
+          "commit": "0151b250edf32f63ccd9be5572579777fcba8a49"
+        }
+      },
+      "quickstart-testing": {
+        "previous": [],
+        "current": {
+          "score": 4.9,
+          "date": "2023-11-27",
+          "commit": "6ac0acf396e87e2588223151e8f0b4cf307a5e84"
+        }
+      },
+      "firebase-unity-sdk": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2023-11-27",
+          "commit": "6f2d09e03b310b3d18fb9292ab469c5f12e3b49c"
+        }
+      },
+      "grpc": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2023-11-27",
+          "commit": "647f37c76fea8ef83a1c6170435632d9481051a2"
+        }
+      },
+      "nanopb": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2023-11-27",
+          "commit": "b574ac5aedbc72e3b47030e67d88e28b56ad79e0"
+        }
+      },
+      "SpecsDev": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2023-11-27",
+          "commit": "fbaff111da59040677beda0cedc123e2352dd5ef"
+        }
+      },
+      "boringSSL-SwiftPM": {
+        "previous": [],
+        "current": {
+          "score": 5.9,
+          "date": "2023-11-27",
+          "commit": "29f1242000bf6c9cb984d945e191bf05be66eeea"
+        }
+      },
+      "FirebaseUI-Flutter": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2023-11-30T12:42:43Z",
+          "commit": "ab89f5cfa215be771e06abc9a94a65f821e2ce8d"
+        }
+      },
+      "grpc-SwiftPM": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2023-11-27",
+          "commit": "41074a7ee61eef0c3348c61fc296ce2de71f332b"
+        }
+      }
+    }
+  }
+}
