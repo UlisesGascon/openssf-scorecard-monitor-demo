@@ -1,0 +1,31 @@
+name: "🚩 Experimental Docker"
+on: 
+  workflow_dispatch:   
+
+permissions:
+  contents: write
+  pull-requests: none 
+  issues: none
+  packages: none
+
+jobs:
+  security-scoring:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: OpenSSF Scorecard Monitor
+        uses: UlisesGascon/openssf-scorecard-monitor@main
+        with:
+          scope: experimental_firebase/scope.json
+          database: experimental_firebase/database.json
+          report: experimental_firebase/report.md
+          auto-commit: true
+          auto-push: true
+          report-tags-enabled: true
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          max-request-in-parallel: 10
+          discovery-enabled: true
+          discovery-orgs: 'firebase'
+      - name: Print the scores
+        run: |
+          echo '${{ steps.openssf-scorecard-monitor.outputs.scores }}'  
