@@ -1,4 +1,4 @@
-name: "🚩 Experimental Docker"
+name: "🚩 Experimental Firebase"
 on: 
   workflow_dispatch:   
 
