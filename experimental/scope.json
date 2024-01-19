@@ -11,7 +11,13 @@
         "tor-detect-middleware",
         "ada",
         "idna",
-        "simple-api"
+        "simple-api",
+        "jenkins-status-alerts-and-reporting",
+        "node",
+        "nodejs.org",
+        "openssf-scorecard-api-visualizer",
+        "openssf-scorecard-monitor",
+        "quiet"
       ],
       "excluded": []
     },
@@ -61,20 +67,25 @@
         "uvwasi",
         "whatwg-stream",
         "gyp-next",
-        "corepack"
+        "corepack",
+        "node-auto-test"
       ],
       "excluded": []
     },
     "ada-url": {
       "included": [
         "ada",
-        "idna"
+        "idna",
+        "goada",
+        "rust",
+        "mimesniff"
       ],
       "excluded": []
     },
     "onebeyond": {
       "included": [
-        "systemic-knex"
+        "systemic-knex",
+        "license-checker"
       ],
       "excluded": []
     },
