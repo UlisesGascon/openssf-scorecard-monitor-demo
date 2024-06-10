@@ -68,7 +68,8 @@
         "whatwg-stream",
         "gyp-next",
         "corepack",
-        "node-auto-test"
+        "node-auto-test",
+        "api-docs-tooling"
       ],
       "excluded": []
     },
@@ -85,7 +86,9 @@
     "onebeyond": {
       "included": [
         "systemic-knex",
-        "license-checker"
+        "license-checker",
+        "react-form-builder",
+        "agnostic-cms-harmonizer"
       ],
       "excluded": []
     },
