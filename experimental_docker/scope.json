@@ -19,7 +19,13 @@
         "hub-tool",
         "compose-cli",
         "get-involved",
-        "cli-docs-tool"
+        "cli-docs-tool",
+        "setup-buildx-action",
+        "setup-qemu-action",
+        "metadata-action",
+        "bake-action",
+        "login-action",
+        "scout-action"
       ],
       "excluded": [
         "community",
