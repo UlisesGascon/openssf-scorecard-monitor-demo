@@ -94,11 +94,16 @@
             "score": 5.3,
             "date": "2023-11-13",
             "commit": "fa09c952e3eadbffaf8afc5b8a1667158ba38ace"
+          },
+          {
+            "score": 4.9,
+            "date": "2024-06-03",
+            "commit": "5df8d2b30ca886f2d94740ce3c54abd58a5bb2c9"
           }
         ],
         "current": {
-          "score": 4.9,
-          "date": "2024-06-03",
+          "score": 4.8,
+          "date": "2024-06-17",
           "commit": "5df8d2b30ca886f2d94740ce3c54abd58a5bb2c9"
         }
       },
@@ -177,12 +182,17 @@
             "score": 6.2,
             "date": "2023-12-04",
             "commit": "9f6f8c940b91232557f8699b21341a08624a8dce"
+          },
+          {
+            "score": 5.7,
+            "date": "2024-06-03",
+            "commit": "ca052bb54ab0790a636c9b5f226502c73d547a25"
           }
         ],
         "current": {
-          "score": 5.7,
-          "date": "2024-06-03",
-          "commit": "ca052bb54ab0790a636c9b5f226502c73d547a25"
+          "score": 6.3,
+          "date": "2024-06-17",
+          "commit": "94f8f8c2eec4bc3f1d78c1755580779804cb87b2"
         }
       },
       "cli-docs-tool": {
@@ -215,12 +225,17 @@
             "score": 6.4,
             "date": "2023-12-04",
             "commit": "5b5c4c8c9df55e133c39cce8153e0fa9fc6f60c4"
+          },
+          {
+            "score": 6.5,
+            "date": "2024-06-03",
+            "commit": "747b75a2175d10ae3b90d25ced97313bb26913b8"
           }
         ],
         "current": {
-          "score": 6.5,
-          "date": "2024-06-03",
-          "commit": "747b75a2175d10ae3b90d25ced97313bb26913b8"
+          "score": 6.4,
+          "date": "2024-06-17",
+          "commit": "9f7c8ea3fbe2ffb4ba0c430edf4d11efcc955556"
         }
       },
       "scan-cli-plugin": {
@@ -254,34 +269,58 @@
         }
       },
       "setup-buildx-action": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 6.1,
+            "date": "2024-06-03",
+            "commit": "5138f76647652447004da686b2411557eaf65f33"
+          }
+        ],
         "current": {
-          "score": 6.1,
-          "date": "2024-06-03",
+          "score": 6,
+          "date": "2024-06-17",
           "commit": "5138f76647652447004da686b2411557eaf65f33"
         }
       },
       "setup-qemu-action": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 5.7,
+            "date": "2024-06-03",
+            "commit": "b12b38b5fe75585e04f6aa3fd11fea2f4385ab7f"
+          }
+        ],
         "current": {
-          "score": 5.7,
-          "date": "2024-06-03",
+          "score": 5.6,
+          "date": "2024-06-17",
           "commit": "b12b38b5fe75585e04f6aa3fd11fea2f4385ab7f"
         }
       },
       "login-action": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 6.5,
+            "date": "2024-06-03",
+            "commit": "0d4c9c5ea7693da7b068278f7b52bda2a190a446"
+          }
+        ],
         "current": {
-          "score": 6.5,
-          "date": "2024-06-03",
+          "score": 6.4,
+          "date": "2024-06-17",
           "commit": "0d4c9c5ea7693da7b068278f7b52bda2a190a446"
         }
       },
       "metadata-action": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 6.2,
+            "date": "2024-06-03",
+            "commit": "f7b4ed12385588c3f9bc252f0a2b520d83b52d48"
+          }
+        ],
         "current": {
-          "score": 6.2,
-          "date": "2024-06-03",
+          "score": 6.1,
+          "date": "2024-06-17",
           "commit": "f7b4ed12385588c3f9bc252f0a2b520d83b52d48"
         }
       },
@@ -294,11 +333,17 @@
         }
       },
       "bake-action": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 5.6,
+            "date": "2024-06-03",
+            "commit": "a99697dcb6a3c90dfa91a96de6490ad7bbbe5f29"
+          }
+        ],
         "current": {
-          "score": 5.6,
-          "date": "2024-06-03",
-          "commit": "a99697dcb6a3c90dfa91a96de6490ad7bbbe5f29"
+          "score": 6.1,
+          "date": "2024-06-17",
+          "commit": "1c5f18a523c4c68524cfbc5161494d8bb5b29d20"
         }
       }
     }
