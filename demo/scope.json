@@ -134,7 +134,8 @@
         "harp-plugins",
         "stream",
         "elastic-transport-js",
-        "ecs-logging-go-zerolog"
+        "ecs-logging-go-zerolog",
+        "elastic-transport-go"
       ],
       "excluded": []
     },
@@ -143,7 +144,8 @@
         "pyperf",
         "requests-html",
         "requests",
-        "black"
+        "black",
+        "cachecontrol"
       ],
       "excluded": []
     }
