@@ -1,3 +1,30 @@
 {
-  "github.com": {}
+  "github.com": {
+    "mautic": {
+      "recommended-project": {
+        "previous": [],
+        "current": {
+          "score": 5.8,
+          "date": "2025-06-09",
+          "commit": "2a1ce198726f329a188c2f8690fb5e5bf248365e"
+        }
+      },
+      "api-library": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2025-06-09",
+          "commit": "d0f6603a768f139cb17ed4655b3cabf9a1cd4b83"
+        }
+      },
+      "mautic": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2025-06-09",
+          "commit": "17cbf770d556861650fff6f4077c7174f8c4ca78"
+        }
+      }
+    }
+  }
 }

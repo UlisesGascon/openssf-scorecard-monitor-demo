@@ -1,3 +1,12 @@
 {
-  "github.com": {}
+  "github.com": {
+    "mautic": {
+      "included": [
+        "api-library",
+        "mautic",
+        "recommended-project"
+      ],
+      "excluded": []
+    }
+  }
 }
